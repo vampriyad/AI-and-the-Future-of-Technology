@@ -4,6 +4,12 @@ Welcome to the official website for **Artificial Intelligence and the Future of 
 
 This website was created to introduce my book and share its ideas with readers around the world. Inside, you'll find an overview of the book, learn more about its purpose, and discover how artificial intelligence is shaping the future of our lives and technology.
 
+## 🌐 Live Website
+
+Visit the website here:
+
+https://vampriyad.github.io/AI-and-the-Future-of-Technology/
+
 ## 🌍 About the Book
 
 **Artificial Intelligence and the Future of Technology** explores the rapid growth of AI, its impact on society, the opportunities it creates, the challenges it presents, and what the future may hold in an increasingly intelligent world.
